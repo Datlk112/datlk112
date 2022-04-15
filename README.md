@@ -25,7 +25,7 @@ data_machine = []
 os.system('clear')
 def banner():
  banner = f"""
- 
+ Tool Cb Bảo Trì
 .___________.   _______       ___   .___________.
 |           |  |       \     /   \  |           |
 `---|  |----`  |  .--.  |   /  ^  \ `---|  |----`
